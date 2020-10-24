@@ -39,14 +39,11 @@ img {
 
 
 .links {
-    float: left;
     color: black;
     padding-top: 5px;
-    padding-left: 9px;
-    padding-right: 9px;
     padding-bottom: 5px;
     font-family: 'Cinzel Decorative', cursive;
-    font-size: 20px } 
+    font-size: 20px;display: inline; } 
        
 
 
